@@ -1,0 +1,7 @@
+This is Saurabh text file  of  program no 2 (reading_mode)
+
+it is created by me 
+because
+we are write the program of read mode not a write mode 
+and
+for read mode , need a already created text file....... 

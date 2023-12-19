@@ -1,0 +1,8 @@
+
+	This also sample.txt file of first program (1_File_pointer)
+	
+	In first program we write the program for write mode 
+	so
+	this text file is automatic creat by that written program .....
+	
+	
